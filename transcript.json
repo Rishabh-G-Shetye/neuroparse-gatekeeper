@@ -1,0 +1,44 @@
+[
+  {
+    "start_time": 0,
+    "end_time": 4500,
+    "speaker": "Clinician",
+    "text": "Good morning. To start, how has Liam been doing at home and school lately?"
+  },
+  {
+    "start_time": 5000,
+    "end_time": 18500,
+    "speaker": "Parent",
+    "text": "It's just been so overwhelming. He simply cannot sit still at dinner, he's constantly fidgeting. And when I try to talk to him, it's like he looks right through me, not at me. It breaks my heart."
+  },
+  {
+    "start_time": 19000,
+    "end_time": 22000,
+    "speaker": "Clinician",
+    "text": "Liam, do you like sitting at the dinner table with mom?"
+  },
+  {
+    "start_time": 23500,
+    "end_time": 25000,
+    "speaker": "Child",
+    "text": "No... cars."
+  },
+  {
+    "start_time": 25500,
+    "end_time": 38000,
+    "speaker": "Parent",
+    "text": "He just lines up his toy cars for hours. If I move one, he has a complete meltdown. The teachers say he's easily distracted, but at home, he's hyper-focused on those cars."
+  },
+  {
+    "start_time": 39000,
+    "end_time": 46000,
+    "speaker": "Clinician",
+    "text": "I see. The lining up of toys and distress at routine changes is notable. Does he respond when his name is called?"
+  },
+  {
+    "start_time": 47000,
+    "end_time": 56000,
+    "speaker": "Parent",
+    "text": "Barely. Half the time I think he has a hearing problem, but the pediatrician said his ears are fine. He just tunes us out entirely."
+  }
+]
