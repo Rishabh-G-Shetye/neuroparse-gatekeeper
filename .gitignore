@@ -1,0 +1,13 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# PyCharm / IDE
+.idea/
+*.swp
+
+# Python cache
+__pycache__/
+*.py[cod]
