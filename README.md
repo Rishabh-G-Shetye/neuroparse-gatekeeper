@@ -4,6 +4,8 @@ An interactive, neuro-symbolic pipeline designed to eliminate automation bias an
 
 This prototype specifically addresses the complex diagnostic overlap between ADHD and Autism Spectrum Disorder (ASD) by mathematically forcing AI-extracted symptoms to ground themselves in exact sub-string timestamps from patient-clinician audio transcripts.
 
+![NeuroParse Dashboard](dashboard_img.png)
+
 ## 🚀 Features
 
 - **Semantic Symptom Extraction:** Utilizes Google's Gemini 2.5 Flash to extract DSM-5 clinical criteria from messy, real-world ASR transcripts.
